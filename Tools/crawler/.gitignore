@@ -1,0 +1,4 @@
+*_cred
+__pycache__
+spy_domains.txt
+chromedriver.exe
